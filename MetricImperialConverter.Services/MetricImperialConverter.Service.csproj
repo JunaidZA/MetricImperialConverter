@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MetricImperialConverter.Common\MetricImperialConverter.Common.csproj" />
+    <ProjectReference Include="..\MetricImperialConverter.Data\MetricImperialConverter.Data.csproj" />
+  </ItemGroup>
+
+</Project>
